@@ -1,19 +1,15 @@
-# This is my project title
+# CryptoDevs DAO 
 
-This sentence describes what my project is about summarized.
+Implementation of a web3 Decentralized Autonomous Organization on Ethereum network.
 
 ## More Details
 
-I can explain how my project works here with different topics.
-
-## Upcoming
-
-- [x] I have done this activity
-- [ ] I plan to do this activity next
-
-## Contribution
-
-Feel free to contribute to this project to make it better!
+It mainly works as follows:
+- 1. To create Proposals
+- 2. To vote either for or against the created proposals.
+- 3. to execute the proposal after deadline exceeds
+- 4. to have a balance treasury for the DAO needed to execute proposals
+- 5. FakeNFTMarketplace from where demo NFT can be puchased to gain membership of DAO.
 
 ## License
 
@@ -21,5 +17,4 @@ This project has an MIT License.
 
 ## Made by love
 
-- [StarterTemplates](https://twitter.com/startertemp)
-- [LearnWeb3DAO](https://learnweb3.io)
+- Author: Tirth Shah
